@@ -18,7 +18,7 @@ Resposta: 91
 
 ## 📚 Documentação/
 - [TesteTecnico](https://github.com/GabrielDaCostaAlves/TesteTecnico)/ Pasta com projeto
-- [json](https://github.com/GabrielDaCostaAlves/TesteTecnico/src/main/resources)/ Pasta com json
+- [json](https://github.com/GabrielDaCostaAlves/TesteTecnico/tree/main/src/main/resources)/ Pasta com json
 - ```README.md```  Informações do projeto.
 
 ##  🛠️ Tecnologias
